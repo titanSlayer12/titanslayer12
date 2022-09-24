@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titanslayer12" alt="titanslayer12" /></a> </p> -->
 
-- 🔭 I’m currently working on [spotify-clone](https://github.com/titanSlayer12/spotify-clone)
+- 🔭 I’m currently working on [card reader](https://github.com/titanSlayer12/spotify-clone)
 
 - 🌱 I’m currently learning **MERN Stack**
 
