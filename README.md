@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sudhirkumar3350@gmal.com**
 
-- ⚡ Fun fact **I know it's crazy, but I love to eat…**
+- ⚡ Fun fact **I know it's crazy, but I love to travel…**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
